@@ -1,4 +1,5 @@
-# frases_do_dia
+# Frase do Dia
+![Screenshot_1](https://github.com/LeonardoLuisKlein/fraseDoDia/assets/106256199/f3104565-687e-4a33-a046-f462145eefa8)
 
 A new Flutter project.
 
